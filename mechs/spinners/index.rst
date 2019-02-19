@@ -20,7 +20,7 @@ In MPF spinners are configured just like normal switches:
          number: 42	# number depends on your platform
 
 It is very common to count the rotations of your spinner per player.
-You can eiher use a player variable or a counter for that.
+You can either use a player variable or a counter for that.
 This is an example:
 
 .. code-block:: mpf-config
